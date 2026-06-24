@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Generador de Recordatorios de Citas 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-recordatorios-citas-automaticos/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-recordatorios-citas-automaticos/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-recordatorios-citas-automaticos/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Un recordatorio claro reduce las ausencias. Esta app genera el texto de recordatorio a partir del nombre del cliente, fecha, hora y servicio.
 
 ## 🚀 Probar la aplicación
 
